@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 <<<<<<HEAD
 echo "ALX"
 ========
 echo "ALX School"
 >>>>>>>> update_script
+=======
+echo "The school is open!"
+>>>>>>> refs/remotes/origin/master

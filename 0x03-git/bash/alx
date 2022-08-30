@@ -1,5 +1,6 @@
 #!/bin/bash
-<<<<<<
+<<<<<<< HEAD
+>>>>>>> refs/remotes/origin/master
 echo "ALX School is so cool!"
 =======
 echo "ALX School"
